@@ -1,0 +1,116 @@
+{
+  "name": "app-engine-search-and-filtering",
+  "version": "1.0.0",
+  "description": "Insight Timer App Engine Search and Filter",
+  "main": "src/app.ts",
+  "scripts": {
+    "build:env": "printenv > .env",
+    "compile": "tsc",
+    "clean": "rm -rf lib",
+    "build": "npm run clean && npm run lint && npm run compile",
+    "gh-build": "npm run clean && npm run custom-lint && npm run compile",
+    "start": "node lib/app.js",
+    "dev": "npm run build && node lib/app.js",
+    "dev:watch": "nodemon",
+    "test": "jest; jest-coverage-badges",
+    "lint": "eslint '*/**/*.{js,ts,tsx,jsx}' --fix",
+    "custom-lint": "eslint '*/**/*.{js,ts,tsx,jsx}' --fix -f ./scripts/eslintCustomFormatter.js",
+    "deploy": "npm run build && npm run test && gcloud app deploy"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "eslint --fix"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insight-Timer/app-engine-search-and-filtering.git"
+  },
+  "keywords": [
+    "app engine",
+    "airbnb",
+    "insight timer",
+    "javascript",
+    "typescript",
+    "node",
+    "express"
+  ],
+  "author": "Insight Timer",
+  "dependencies": {
+    "@firebase/firestore-types": "^1.11.0",
+    "@types/bluebird": "^3.5.27",
+    "@types/cls-hooked": "^4.3.0",
+    "@types/firebase": "^3.2.1",
+    "@types/method-override": "0.0.31",
+    "@types/morgan": "^1.9.1",
+    "@types/shortid": "0.0.29",
+    "@types/supertest": "^2.0.9",
+    "@types/swagger-jsdoc": "^3.0.2",
+    "@types/uuid": "^3.4.4",
+    "@types/redis": "^2.8.28",
+    "@types/mysql": "^2.15.16",
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.18.2",
+    "cls-hooked": "^4.2.2",
+    "cors": "^2.8.4",
+    "dotenv": "^8.2.0",
+    "elastic-builder": "^2.2.0",
+    "express": "^4.16.2",
+    "firebase": "^7.7.0",
+    "firebase-admin": "^8.6.0",
+    "firebase-functions": "^3.3.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.13",
+    "method-override": "^3.0.0",
+    "moment": "^2.23.0",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "prettier": "^2.0.5",
+    "promise-mysql": "^4.0.4",
+    "qs": "^6.9.4",
+    "react": "^16.13.1",
+    "shortid": "^2.2.15",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4",
+    "uuid": "^3.3.2",
+    "uuidv4": "^2.0.0",
+    "winston": "^3.2.1",
+    "redis": "^3.0.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.16.0",
+    "@types/jest": "^23.3.8",
+    "@types/lodash": "^4.14.118",
+    "@types/node": "^10.14.8",
+    "@types/swagger-ui-express": "^4.1.2",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "eslint": "^5.0.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.2",
+    "jest": "^24.1.0",
+    "jest-coverage-badges": "^1.1.2",
+    "nodemon": "^2.0.1",
+    "supertest": "^4.0.2",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Insight-Timer/app-engine-search-and-filtering/issues"
+  },
+  "homepage": "https://github.com/Insight-Timer/app-engine-search-and-filtering#readme",
+  "license": "SEE LICENSE IN <filename>"
+}

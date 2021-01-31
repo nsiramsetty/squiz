@@ -1,0 +1,33 @@
+import styled from '@emotion/styled';
+import Button from '@material-ui/core/Button';
+
+export const StyledButton = styled(Button)`
+  height: 44px;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid #ebebeb;
+  background-color: #ebebeb;
+  padding-left: 14px;
+  padding-right: 14px;
+  :disabled {
+    border: 1px solid #ebebeb;
+  }
+`;
+
+export const IconDiv = styled.div`
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #181818;
+`;
+
+export const StyledSpan = styled.span`
+  width: 100%;
+  font-family: ProximaNova !important;
+  font-size: 15px;
+  letter-spacing: 0.17pt;
+  text-transform: none;
+  font-weight: 600;
+`;

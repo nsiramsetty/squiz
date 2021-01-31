@@ -1,0 +1,81 @@
+steps:
+
+  ## Start Actions for All Branches ##
+
+  # Install
+  - name: node:10.15.3
+    entrypoint: npm
+    args: ["ci"]
+
+  # Build
+  - name: node:10.15.3
+    entrypoint: npm
+    args: ['run', 'build']
+
+  # Test
+  - name: node:10.15.3
+    entrypoint: npm
+    args: ['run', 'test']
+
+  ## End Actions for All Branches ##
+
+  ## Start Actions for Develop and Master ##
+
+  # Copy environment variables from substitute variables
+  - name: node:10.15.3
+    entrypoint: /bin/bash
+    args:
+      - '-c'
+      - |
+        if [[ "${BRANCH_NAME}" == "develop" || "${BRANCH_NAME}" == "master" || "${BRANCH_NAME}" == "staging" ]]; then
+          npm run build:env;
+        fi
+    env:
+      - 'GAE_APP_NAME=${_GAE_APP_NAME}'
+      - 'GAE_API_PREFIX=${_GAE_API_PREFIX}'
+      - 'GAE_LOGS_LEVEL=${_GAE_LOGS_LEVEL}'
+      - 'GAE_APP_SLACK_URL=${_GAE_APP_SLACK_URL}'
+
+  # Git Actions.
+  - name: gcr.io/cloud-builders/git
+    entrypoint: /bin/bash
+    args:
+      - '-c'
+      - |
+        if [[ "${BRANCH_NAME}" == "develop" || "${BRANCH_NAME}" == "master" || "${BRANCH_NAME}" == "staging" ]]; then
+          git config --global user.name ${_GIT_USER_NAME} && git config --global user.email ${_GIT_USER_EMAIL} ;
+          git fetch --unshallow;
+          git checkout "${BRANCH_NAME}";
+          echo ${BRANCH_NAME}-`git rev-list --count '${BRANCH_NAME}'` > IMAGE_TAG ;
+          git tag -a $(cat IMAGE_TAG) ${SHORT_SHA} -m $(cat IMAGE_TAG) --force  && git push -f ${_GIT_REPO_URL} $(cat IMAGE_TAG) ;
+        fi
+
+  # Build image with `sequential or latest` tag`.
+  - name: gcr.io/cloud-builders/docker
+    entrypoint: /bin/bash
+    args:
+      - '-c'
+      - |
+        if [[ "${BRANCH_NAME}" == "develop" || "${BRANCH_NAME}" == "master" || "${BRANCH_NAME}" == "staging" ]]; then
+          docker build -f ./Dockerfile -t gcr.io/${PROJECT_ID}/${_GAE_APP_NAME}:$(cat IMAGE_TAG) -t gcr.io/${PROJECT_ID}/${_GAE_APP_NAME}:latest . ;
+          docker push gcr.io/${PROJECT_ID}/${_GAE_APP_NAME}:$(cat IMAGE_TAG) ;
+          docker push gcr.io/${PROJECT_ID}/${_GAE_APP_NAME}:latest ;
+        fi
+
+  ## End Actions for Develop and Master ##
+
+  ## Start Actions for only Develop Branch ##
+
+  # Deploy container image to App Engine in Preprod Environment.
+  - name: 'gcr.io/cloud-builders/gcloud'
+    entrypoint: /bin/bash
+    args:
+      - '-c'
+      - |
+        if [[ "${BRANCH_NAME}" == "develop" || "${BRANCH_NAME}" == "staging" ]]; then
+          ./deploy-staging.sh ${PROJECT_ID} $(cat IMAGE_TAG) ${_GAE_APP_NAME} ;
+        fi
+
+  ## End Actions for only Develop Branch##
+
+timeout: 1200s

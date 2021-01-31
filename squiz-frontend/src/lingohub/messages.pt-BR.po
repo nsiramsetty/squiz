@@ -1,0 +1,951 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-20 11:40+0800\n"
+"Mime-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt_BR\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "#1 free app for sleep, anxiety and stress."
+msgstr ""
+"O aplicativo gratuito nº1 para dormir e reduzir o estresse e a ansiedade."
+
+msgid "/"
+msgstr ""
+
+msgid "/guided-meditations"
+msgstr "/br/meditacao-guiada"
+
+msgid "/meditation-courses/{0}"
+msgstr "/meditation-courses/{0}"
+
+msgid "/meditation-courses/{slug}"
+msgstr ""
+
+msgid "/meditation-teachers/"
+msgstr "/br/professores/"
+
+msgid "/reset-password"
+msgstr "/redefina-senha"
+
+msgid "/{0}/guided-meditations/{1}"
+msgstr "/br/meditacao-guiada/{1}"
+
+msgid "/{0}/guided-meditations/{slug}"
+msgstr ""
+
+msgid "350k {0} reviews"
+msgstr "350mil {0} comentários"
+
+msgid "50% of all our revenue goes directly to our Teachers"
+msgstr "50% de toda a nossa receita vai diretamente para nossos Professores"
+
+msgid "<0>By</0> {0}"
+msgstr "<0>Por</0> {0}"
+
+msgid "Activity"
+msgstr "Atividade"
+
+msgid "Adelaide"
+msgstr "Adelaide"
+
+msgid "Alexandria"
+msgstr "Alexandria"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "All Lengths"
+msgstr "Todas as Durações"
+
+msgid "All Vocals"
+msgstr "Todas as Vozes"
+
+msgid "Already signed up?"
+msgstr "Já se registrou?"
+
+msgid "Amsterdam"
+msgstr "Amsterdã"
+
+msgid "Ankara"
+msgstr "Ancara"
+
+msgid "Anxiety"
+msgstr "Ansiedade"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Arnhem"
+msgstr "Arnhem"
+
+msgid "Asheville"
+msgstr "Asheville"
+
+msgid "Athens"
+msgstr "Atenas"
+
+msgid "Atlanta"
+msgstr "Atlanta"
+
+msgid "Auckland"
+msgstr "Auckland"
+
+msgid "Austin"
+msgstr "Austin"
+
+msgid "Australia"
+msgstr "Austrália"
+
+msgid "Austria"
+msgstr "Áustria"
+
+msgid "Bali"
+msgstr "Bali"
+
+msgid "Baltimore"
+msgstr "Baltimore"
+
+msgid "Bangkok"
+msgstr "Bangkok"
+
+msgid "Barcelona"
+msgstr "Barcelona"
+
+msgid "Basel"
+msgstr "Basiléia"
+
+msgid "Beginners"
+msgstr "Iniciantes"
+
+msgid "Belgium"
+msgstr "Bélgica"
+
+msgid "Belo Horizonte"
+msgstr ""
+
+msgid "Berlin"
+msgstr "Berlim"
+
+msgid "Birmingham"
+msgstr ""
+
+msgid "Bogotá"
+msgstr ""
+
+msgid "Bordeaux"
+msgstr ""
+
+msgid "Boston"
+msgstr ""
+
+msgid "Brasília"
+msgstr ""
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Brighton"
+msgstr ""
+
+msgid "Brisbane"
+msgstr ""
+
+msgid "Bristol"
+msgstr ""
+
+msgid "Browse all"
+msgstr "Ver todas"
+
+msgid "Brussels"
+msgstr "Bruxelas"
+
+msgid "Buenos Aires"
+msgstr ""
+
+msgid "By"
+msgstr "Por"
+
+msgid "Byron Bay"
+msgstr ""
+
+msgid "Calgary"
+msgstr ""
+
+msgid "Cambridge"
+msgstr ""
+
+msgid "Campinas"
+msgstr ""
+
+msgid "Canada"
+msgstr "Canadá"
+
+msgid "Cape Town"
+msgstr "Cidade do Cabo"
+
+msgid "Charlotte"
+msgstr ""
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Children"
+msgstr "Crianças"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Cincinnati"
+msgstr ""
+
+msgid "Cities"
+msgstr "Cidades"
+
+msgid "Cologne"
+msgstr "Colônia"
+
+msgid "Colombia"
+msgstr "Colômbia"
+
+msgid "Columbus"
+msgstr ""
+
+msgid "Continue to {title}"
+msgstr "Continuar para {title}"
+
+msgid "Copenhagen"
+msgstr ""
+
+msgid "Coping with"
+msgstr "Lidando com"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid ""
+"Create a free account to bookmark your favorite tracks, follow teachers, and "
+"meditate with friends."
+msgstr ""
+"Crie uma conta gratuita para marcar suas faixas favoritas, seguir os "
+"professores e meditar com os amigos."
+
+msgid "Create account"
+msgstr "Criar uma conta"
+
+msgid "Create an account. It’s free. Join {0} million <0/>people today."
+msgstr "Crie uma conta. É grátis. Junte-se a {0} milhões de <0/>pessoas hoje."
+
+msgid "Create free account"
+msgstr "Criar uma conta gratuita"
+
+msgid "Create your free account"
+msgstr "Crie a sua conta gratuita"
+
+msgid "Curitiba"
+msgstr ""
+
+msgid "Dallas"
+msgstr ""
+
+msgid "Denmark"
+msgstr "Dinamarca"
+
+msgid "Denver"
+msgstr ""
+
+msgid "Displaying {0} free meditations"
+msgstr "Exibindo {0} meditações gratuitas"
+
+msgid "Don’t have an account?"
+msgstr "Não tem uma conta?"
+
+msgid "Download our app"
+msgstr "Baixe o nosso aplicativo"
+
+msgid "Dubai"
+msgstr ""
+
+msgid "Dublin"
+msgstr ""
+
+msgid "Durham"
+msgstr ""
+
+msgid "Edinburgh"
+msgstr ""
+
+msgid "Egypt"
+msgstr "Egito"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email address"
+msgstr "Endereço de email"
+
+msgid "Everyone"
+msgstr "Todos"
+
+msgid "Experienced"
+msgstr "Experiente"
+
+msgid "Extended"
+msgstr "Estendido"
+
+msgid "Female only"
+msgstr "Somente Feminina"
+
+msgid "Finland"
+msgstr "Finlândia"
+
+msgid "Follow"
+msgstr "Seguir"
+
+msgid "Forgot"
+msgstr "Esqueci"
+
+msgid "France"
+msgstr "França"
+
+msgid "Frankfurt"
+msgstr ""
+
+msgid "Full name"
+msgstr "Nome completo"
+
+msgid "Galway"
+msgstr ""
+
+msgid "Gent"
+msgstr "Gante"
+
+msgid "Germany"
+msgstr "Alemanha"
+
+msgid "Get the full experience on our free app"
+msgstr "Obtenha a experiência completa no nosso aplicativo gratuito"
+
+msgid "Glasgow"
+msgstr ""
+
+msgid "Gold Coast"
+msgstr ""
+
+msgid "Greece"
+msgstr "Grécia"
+
+msgid "Groningen"
+msgstr ""
+
+msgid "Guided Meditations"
+msgstr "Meditações Guiadas"
+
+msgid "Hamburg"
+msgstr ""
+
+msgid "Hawaii"
+msgstr ""
+
+msgid "Helsinki"
+msgstr ""
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Houston"
+msgstr ""
+
+msgid "Improve your"
+msgstr "Melhore o seu"
+
+msgid "Indonesia"
+msgstr "Indonésia"
+
+msgid "Infants"
+msgstr "Bebês"
+
+msgid "Introducing"
+msgstr "Apresentando as"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Istanbul"
+msgstr ""
+
+msgid "Italy"
+msgstr "Itália"
+
+msgid "Japan"
+msgstr "Japão"
+
+msgid "Kansas City"
+msgstr ""
+
+msgid "Kids"
+msgstr "Crianças"
+
+msgid "Las Vegas"
+msgstr ""
+
+msgid "Lesson {0}"
+msgstr "Lição {0}"
+
+msgid "Link Copied"
+msgstr ""
+
+msgid "Lisbon"
+msgstr "Lisboa"
+
+msgid "Log in"
+msgstr "Entrar"
+
+msgid "Log in to your account"
+msgstr "Acesse a sua conta"
+
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Logout"
+msgstr "Sair"
+
+msgid "London"
+msgstr "Londres"
+
+msgid "Long"
+msgstr "Longo"
+
+msgid "Los Angeles"
+msgstr ""
+
+msgid "Lyon"
+msgstr ""
+
+msgid "Madrid"
+msgstr ""
+
+msgid "Male only"
+msgstr "Somente Masculina"
+
+msgid "Managing"
+msgstr "Gerenciando o"
+
+msgid "Manchester"
+msgstr ""
+
+msgid "Medellín"
+msgstr ""
+
+msgid "Meditation"
+msgstr "Meditação"
+
+msgid "Meditation Courses by {0} Teachers"
+msgstr "Cursos de Meditação de {0} Professores"
+
+msgid "Meditation for"
+msgstr "Meditação para"
+
+msgid "Meditation with"
+msgstr "Meditação com"
+
+msgid "Melbourne"
+msgstr ""
+
+msgid "Mexico"
+msgstr "México"
+
+msgid "Mexico City"
+msgstr "Cidade do México"
+
+msgid "Miami"
+msgstr ""
+
+msgid "Milan"
+msgstr "Milão"
+
+msgid "Minimum 6 characters"
+msgstr "Mínimo de 6 caracteres"
+
+msgid "Minneapolis"
+msgstr "Mineápolis"
+
+msgid "Montréal"
+msgstr "Montreal"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "Moscow"
+msgstr "Moscou"
+
+msgid "Munich"
+msgstr "Munique"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "My Courses"
+msgstr "Meus Cursos"
+
+msgid "My Profile"
+msgstr "Meu Perfil"
+
+msgid "My Subscription"
+msgstr "Minha Assinatura"
+
+msgid "Nashville"
+msgstr ""
+
+msgid "Netherlands"
+msgstr "Países Baixos"
+
+msgid "New"
+msgstr "Novidades"
+
+msgid "New Orleans"
+msgstr "Nova Orleans"
+
+msgid "New York"
+msgstr "Nova Iorque"
+
+msgid "New Zealand"
+msgstr "Nova Zelândia"
+
+msgid "Newest"
+msgstr "Novidades"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "Nottingham"
+msgstr ""
+
+msgid "Orlando"
+msgstr ""
+
+msgid "Oslo"
+msgstr ""
+
+msgid "Ottawa"
+msgstr ""
+
+msgid "Oxford"
+msgstr ""
+
+msgid "Paris"
+msgstr ""
+
+msgid "Perth"
+msgstr ""
+
+msgid "Philadelphia"
+msgstr "Filadélfia"
+
+msgid "Phoenix"
+msgstr ""
+
+msgid "Playlists"
+msgstr "Playlists"
+
+msgid "Plays"
+msgstr "Plays"
+
+msgid "Poland"
+msgstr "Polônia"
+
+msgid "Popular"
+msgstr "Populares"
+
+msgid "Popular Courses"
+msgstr "Cursos Populares"
+
+msgid "Portland"
+msgstr ""
+
+msgid "Porto"
+msgstr ""
+
+msgid "Porto Alegre"
+msgstr ""
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Puerto Vallarta"
+msgstr ""
+
+msgid "Rated"
+msgstr "Avaliação"
+
+msgid "Recent Reviews"
+msgstr "Avaliações Recentes"
+
+msgid "Register. It’s free!"
+msgstr "Registre-se. É grátis!"
+
+msgid "Related Courses"
+msgstr "Cursos Relacionados"
+
+msgid "Related Meditations"
+msgstr "Meditações Relacionadas"
+
+msgid "Related Teachers"
+msgstr "Professores Relacionados"
+
+msgid "Reset Password"
+msgstr "Redefinir Senha"
+
+msgid "Reset your Insight Timer Password."
+msgstr "Redefina sua Senha do Insight Timer"
+
+msgid "Reset your password"
+msgstr "Redefina sua senha"
+
+msgid "Rio de Janeiro"
+msgstr ""
+
+msgid "Rome"
+msgstr "Roma"
+
+msgid "Rotterdam"
+msgstr "Roterdã"
+
+msgid "Russia"
+msgstr "Rússia"
+
+msgid "Saint Petersburg"
+msgstr "São Petersburgo"
+
+msgid "Salt Lake City"
+msgstr ""
+
+msgid "San Diego"
+msgstr ""
+
+msgid "San Francisco"
+msgstr "São Francisco"
+
+msgid "San Jose"
+msgstr "San José"
+
+msgid "Santa Ana"
+msgstr ""
+
+msgid "Santa Cruz"
+msgstr ""
+
+msgid "Santiago"
+msgstr ""
+
+msgid "Sao Paolo"
+msgstr "São Paulo"
+
+msgid "Scotland"
+msgstr "Escócia"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Seattle"
+msgstr ""
+
+msgid "Sedona"
+msgstr ""
+
+msgid "See all"
+msgstr "Veja todos"
+
+msgid "See all <0>200 Topics</0>"
+msgstr "Ver todos os <0>200 Tópicos</0>"
+
+msgid "Sevilla"
+msgstr ""
+
+msgid "Short"
+msgstr "Curto"
+
+msgid "Sign In"
+msgstr "Entrar"
+
+msgid "Sign Up"
+msgstr "Cadastre-se"
+
+msgid "Sign in with Apple"
+msgstr "Entrar com a conta Apple"
+
+msgid "Sign in with Facebook"
+msgstr "Entrar com o Facebook"
+
+msgid "Sign up"
+msgstr "Registre-se"
+
+msgid "Sign up free"
+msgstr "Cadastre-se grátis"
+
+msgid "Sign up with Apple"
+msgstr "Registre-se com a conta Apple"
+
+msgid "Sign up with Facebook"
+msgstr "Registre-se com o Facebook"
+
+msgid "Sign up with email"
+msgstr "Registre-se com seu email"
+
+msgid "Since"
+msgstr "Desde"
+
+msgid "Singapore"
+msgstr "Singapura"
+
+msgid "Sleep"
+msgstr "Sono"
+
+msgid "South Africa"
+msgstr "África do Sul"
+
+msgid "Spain"
+msgstr "Espanha"
+
+msgid "St. Louis"
+msgstr ""
+
+msgid "Start 30 day free trial"
+msgstr "Comece o teste de 30 dias gratuitos"
+
+msgid "Start Day 1"
+msgstr "Comece o Dia 1"
+
+msgid "Stockholm"
+msgstr ""
+
+msgid "Stress"
+msgstr "Estresse"
+
+msgid "Stuttgart"
+msgstr ""
+
+msgid "Submitted successfully."
+msgstr "Submetido com sucesso."
+
+msgid "Suitable for"
+msgstr "Indicado para"
+
+msgid "Sweden"
+msgstr "Suécia"
+
+msgid "Switzerland"
+msgstr "Suíça"
+
+msgid "Sydney"
+msgstr ""
+
+msgid "Tampa"
+msgstr ""
+
+msgid "Teacher"
+msgstr " "
+
+msgid "Teacher Dasboard"
+msgstr "Painel do Professor"
+
+msgid "Teachers"
+msgstr "Professores"
+
+msgid "Teams"
+msgstr "Para Empresas"
+
+msgid "Teenagers"
+msgstr "Adolescentes"
+
+msgid "Term & Privacy"
+msgstr "Termos & Privacidade"
+
+msgid "Thailand"
+msgstr "Tailândia"
+
+msgid "The Hague"
+msgstr "Haia"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Tokyo"
+msgstr "Tóquio"
+
+msgid "Topic"
+msgstr "Tópico"
+
+msgid "Toronto"
+msgstr ""
+
+msgid "Turkey"
+msgstr "Turquia"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "United Arab Emirates"
+msgstr "Emirados Árabes Unidos"
+
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "Unlock over 300 premium courses on Members Plus today!"
+msgstr "Desbloqueie hoje mais de 300 cursos premium no Members Plus!"
+
+msgid "Unwind with"
+msgstr "Relaxe com"
+
+msgid "User Profile"
+msgstr "Perfil do Usuário"
+
+msgid "Utrecht"
+msgstr ""
+
+msgid "Valencia"
+msgstr "Valência"
+
+msgid "Vancouver"
+msgstr ""
+
+msgid "Victoria"
+msgstr ""
+
+msgid "Vienna"
+msgstr "Viena"
+
+msgid "Virtual Meditation Classes Online"
+msgstr "Aulas Virtuais de Meditação Online"
+
+msgid "Warsaw"
+msgstr "Varsóvia"
+
+msgid "Washington"
+msgstr ""
+
+msgid ""
+"We believe everyone deserves access to a free daily meditation practice. "
+"Which is why we publish the world's largest collection of free guided "
+"meditations, with over {gmTotalFormatted} titles."
+msgstr ""
+"Acreditamos que todos merecem ter acesso a meditação diária e gratuita. É "
+"por isso que publicamos a maior coleção do mundo de meditações guiadas "
+"gratuitas, com mais de {gmTotalFormatted} títulos."
+
+msgid ""
+"We use cookies to make your experience better. By visiting this site, you "
+"agree to our <0>cookie policy</0>."
+msgstr ""
+
+msgid "Wellington"
+msgstr ""
+
+msgid "What you’ll learn"
+msgstr "O que você irá aprender"
+
+msgid "Winnipeg"
+msgstr ""
+
+msgid "Yoga"
+msgstr "Yoga"
+
+msgid "Your password"
+msgstr "Sua senha"
+
+msgid "Zwolle"
+msgstr ""
+
+msgid "Zürich"
+msgstr "Zurique"
+
+msgid "by <0> {publisherName} </0>"
+msgstr "por <0> {publisherName} </0>"
+
+msgid "guided"
+msgstr "guiado"
+
+msgid "guided-meditations"
+msgstr "meditacao-guiada"
+
+msgid "less"
+msgstr "menos"
+
+msgid "meditation-courses"
+msgstr ""
+
+msgid "meditation-teachers"
+msgstr "professores"
+
+msgid "meta.homepage.title"
+msgstr ""
+
+msgid "meta.homepate.description"
+msgstr ""
+
+msgid "more"
+msgstr "mais"
+
+msgid "music"
+msgstr "música"
+
+msgid "or"
+msgstr "ou"
+
+msgid "query.contentLangs"
+msgstr "pt-BR,pt"
+
+msgid "query.deviceLang"
+msgstr "pt-BR"
+
+msgid "reset-password"
+msgstr ""
+
+msgid "talks"
+msgstr "podcasts"
+
+msgid "{0, plural, one {# min} other {# mins}}"
+msgstr "{0, plural, one {# min} other {# min}}"
+
+msgid "{0, plural, one {# teacher} other {# teachers}}"
+msgstr "{0, plural, one {# Professor(a)} other {# professores}}"
+
+msgid "{0, plural, one {Follower} other {Followers}}"
+msgstr "{0, plural, one {Seguidor} other {Seguidores}}"
+
+msgid "{0, plural, one {{1} follower} other {{2} followers}}"
+msgstr "{0, plural, one {{1} seguidor} other {{2} seguidores}}"
+
+msgid "{0, plural, one {{1} play} other {{2} plays}}"
+msgstr "{0, plural, one {{1} play} other {{2} plays}}"
+
+msgid "{0} <0/> {1} DAY COURSE"
+msgstr "{0} <0/> {1} DIAS DE CURSO"
+
+msgid "{0} day course"
+msgstr "{0} dias de curso"
+
+msgid "{0} min"
+msgstr "{0} min"
+
+msgid "{0}'s Collection"
+msgstr "Acervo de {0}"
+
+msgid "{days} day course"
+msgstr ""
+
+msgid "{duration_days} day course"
+msgstr "{duration_days} dias"
+
+msgid "{gmTotalFormatted} <0><1/></0> guided meditations"
+msgstr "{gmTotalFormatted} <0><1/></0> meditações guiadas"

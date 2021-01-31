@@ -1,0 +1,1709 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-20 11:40+0800\n"
+"Mime-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: nl\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"Content-Type: text/plain; charset=UTF-8"\n"
+
+#: src/components/Signup/index.tsx:26
+#: src/views_2/FunnelHome/intl/english.tsx:68
+#: src/views_2/FunnelHome/intl/index.tsx:64
+msgid "#1 free app for sleep, anxiety and stress."
+msgstr "#1 gratis app voor betere slaap en minder stress"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:352
+msgid "${ANNUAL_SUBSCRIPTION_PRICE}/year"
+msgstr "${jaarlijks_abonnement_prijs}/jaar"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:354
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:395
+msgid "30 Day Free Trial"
+msgstr "30 dagen gratis proefabonnement"
+
+#: src/components/FreeTrial/index.tsx:54
+msgid "350k"
+msgstr "350k"
+
+#: src/components_2/base/LibraryItemPromotionTiles/appDownload/index.tsx:100
+msgid "350k {0} reviews"
+msgstr "350k {0} beoordelingen"
+
+#: src/views_2/LibraryItem/details/index.tsx:103
+#: src/views_2/Topics/details/TopicCourses/index.tsx:89
+msgid "50% of all our revenue goes directly to our Teachers"
+msgstr "50% van al onze inkomsten gaan rechtstreeks naar onze docenten"
+
+#: src/components_2/base/LibraryItemPromotionTiles/course/index.tsx:149
+msgid "<0>By</0> {0}"
+msgstr "Door"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:26
+msgid "<0>Coping with</0> Anxiety"
+msgstr "Omgaan met Angst"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:14
+msgid "<0>Improve your</0> Sleep"
+msgstr "<0>Verbeter je</0> -Slaap"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:32
+msgid "<0>Improving</0> Relationships"
+msgstr "<0>Verbeter je</0> Relaties"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:20
+msgid "<0>Managing</0> Stress"
+msgstr "Omgaan met Stress"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:44
+msgid "<0>Meditation</0> Music"
+msgstr "<0>Meditatie</0> Muziek"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:38
+msgid "<0>Mindfulness at</0> Work"
+msgstr "Mindfulness op het Werk"
+
+#: src/components_2/layout/TrackList/index.tsx:62
+msgid "Access the full Playlist on our app"
+msgstr "Toegang tot de volledige Afspeellijst op onze app"
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:148
+msgid "Activity"
+msgstr "Activiteit"
+
+#: src/locales/i18nMarkCities.tsx:47
+msgid "Adelaide"
+msgstr "Adelaide"
+
+#: src/locales/i18nMarkCities.tsx:74
+msgid "Alexandria"
+msgstr "Alexandrië"
+
+#: src/components/Header/MobileNav/menus.tsx:15
+msgid "All"
+msgstr "Alle"
+
+#: src/locales/i18nMark.tsx:15
+msgid "All Lengths"
+msgstr "Elke duur"
+
+#: src/views_2/Playlists/browse/index.tsx:120
+msgid "All Playlists"
+msgstr "Alle Afspeellijsten"
+
+#: src/locales/i18nMark.tsx:19
+msgid "All Vocals"
+msgstr "Alle Vocals"
+
+#: src/views_2/Topics/details/index.tsx:144
+msgid "All {slug} Tracks"
+msgstr "Alle {slug} Tracks"
+
+#: src/components/Signup/index.tsx:35
+msgid "Already signed up?"
+msgstr "Heb je je al aangemeld?"
+
+#: src/locales/i18nMarkCities.tsx:98
+msgid "Amsterdam"
+msgstr "Amsterdam"
+
+#: src/locales/i18nMarkCities.tsx:122
+msgid "Ankara"
+msgstr "Ankara"
+
+#: src/components/Header/LibraryNav/index.tsx:248
+#: src/components/Header/MobileNav/menus.tsx:27
+msgid "Anxiety"
+msgstr "Angst"
+
+#: src/locales/i18nMarkCities.tsx:5
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: src/locales/i18nMarkCities.tsx:95
+msgid "Arnhem"
+msgstr "Arnhem"
+
+#: src/locales/i18nMarkCities.tsx:148
+msgid "Asheville"
+msgstr "Asheville"
+
+#: src/locales/i18nMarkCities.tsx:85
+msgid "Athens"
+msgstr "Athene"
+
+#: src/locales/i18nMarkCities.tsx:144
+msgid "Atlanta"
+msgstr "Atlanta"
+
+#: src/locales/i18nMarkCities.tsx:102
+msgid "Auckland"
+msgstr "Auckland"
+
+#: src/locales/i18nMarkCities.tsx:140
+msgid "Austin"
+msgstr "Austin"
+
+#: src/locales/i18nMarkCities.tsx:6
+msgid "Australia"
+msgstr "Australië"
+
+#: src/locales/i18nMarkCities.tsx:7
+msgid "Austria"
+msgstr "Oostenrijk"
+
+#: src/locales/i18nMarkCities.tsx:87
+msgid "Bali"
+msgstr "Bali"
+
+#: src/locales/i18nMarkCities.tsx:158
+msgid "Baltimore"
+msgstr "Baltimore"
+
+#: src/locales/i18nMarkCities.tsx:121
+msgid "Bangkok"
+msgstr "Bangkok"
+
+#: src/locales/i18nMarkCities.tsx:116
+msgid "Barcelona"
+msgstr "Barcelona"
+
+#: src/locales/i18nMarkCities.tsx:120
+msgid "Basel"
+msgstr "Bazel"
+
+#: src/views_2/MemberPlus/v2/hero/index.tsx:99
+msgid "Become an Insight Timer supporter"
+msgstr ""
+
+#: src/locales/i18nMark.tsx:11
+msgid "Beginners"
+msgstr "Beginners"
+
+#: src/locales/i18nMarkCities.tsx:8
+msgid "Belgium"
+msgstr "België"
+
+#: src/locales/i18nMarkCities.tsx:60
+msgid "Belo Horizonte"
+msgstr "Belo Horizonte"
+
+#: src/locales/i18nMarkCities.tsx:83
+msgid "Berlin"
+msgstr "Berlijn"
+
+#: src/locales/i18nMarkCities.tsx:129
+msgid "Birmingham"
+msgstr "Birmingham"
+
+#: src/locales/i18nMarkCities.tsx:71
+msgid "Bogotá"
+msgstr "Bogota"
+
+#: src/locales/i18nMarkCities.tsx:76
+msgid "Bordeaux"
+msgstr "Bordeaux"
+
+#: src/locales/i18nMarkCities.tsx:165
+msgid "Boston"
+msgstr "Boston"
+
+#: src/locales/i18nMarkCities.tsx:61
+msgid "Brasília"
+msgstr "Brasilia"
+
+#: src/locales/i18nMarkCities.tsx:9
+msgid "Brazil"
+msgstr "Brazilië"
+
+#: src/locales/i18nMarkCities.tsx:125
+msgid "Brighton"
+msgstr "Brighton"
+
+#: src/locales/i18nMarkCities.tsx:51
+msgid "Brisbane"
+msgstr "Brisbane"
+
+#: src/locales/i18nMarkCities.tsx:126
+msgid "Bristol"
+msgstr "Bristol"
+
+#: src/views_2/Course/browse/intl/index.tsx:85
+#: src/views_2/FunnelHome/intl/english.tsx:128
+#: src/views_2/FunnelHome/intl/index.tsx:113
+msgid "Browse all"
+msgstr "Bekijk alles"
+
+#: src/locales/i18nMarkCities.tsx:54
+msgid "Brussels"
+msgstr "Brussel"
+
+#: src/locales/i18nMarkCities.tsx:45
+msgid "Buenos Aires"
+msgstr "Buenos Aires"
+
+#: src/components_2/base/CourseInfo/v2/index.tsx:248
+msgid "By"
+msgstr "Door"
+
+#~ msgid "By continuing with purchase you agree to our"
+#~ msgstr "Door verder te gaan, ga je akkoord met onze"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:258
+msgid "By continuing with purchase you agree to our <0>Terms</0>"
+msgstr ""
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:548
+msgid "By continuing you agree to our <0>Terms</0>"
+msgstr "Door verder te gaan ga je akkoord met onze <0>Voorwaarden</0>"
+
+#: src/locales/i18nMarkCities.tsx:52
+msgid "Byron Bay"
+msgstr "Byron Bay"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:204
+msgid "CVC"
+msgstr "CVC"
+
+#: src/locales/i18nMarkCities.tsx:70
+msgid "Calgary"
+msgstr "Calgary"
+
+#: src/locales/i18nMarkCities.tsx:132
+msgid "Cambridge"
+msgstr "Cambridge"
+
+#: src/locales/i18nMarkCities.tsx:59
+msgid "Campinas"
+msgstr "Campinas"
+
+#: src/locales/i18nMarkCities.tsx:11
+msgid "Canada"
+msgstr "Canada"
+
+#: src/locales/i18nMarkCities.tsx:112
+msgid "Cape Town"
+msgstr "Kaapstad"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:78
+msgid "Card CVC is required."
+msgstr "Kaart CVC is vereist"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:72
+msgid "Card Expiry is required."
+msgstr "Vervaldatum Kaart is vereist"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:66
+msgid "Card Number is required."
+msgstr "Kaartnummer is vereist"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:189
+msgid "Card number"
+msgstr "Kaartnummer"
+
+#: src/locales/i18nMarkCities.tsx:147
+msgid "Charlotte"
+msgstr "Charlotte"
+
+#: src/locales/i18nMarkCities.tsx:164
+msgid "Chicago"
+msgstr "Chicago"
+
+#: src/locales/i18nMark.tsx:10
+msgid "Children"
+msgstr "Kinderen"
+
+#: src/locales/i18nMarkCities.tsx:10
+msgid "Chile"
+msgstr "Chili"
+
+#: src/locales/i18nMarkCities.tsx:157
+msgid "Cincinnati"
+msgstr "Cincinnati"
+
+#: src/components/Header/MobileNav/menus.tsx:65
+#: src/components/Header/desktop.tsx:32
+msgid "Circles for Teams"
+msgstr "Circles voor Teams"
+
+#: src/views_2/FunnelHome/intl/english.tsx:167
+#: src/views_2/FunnelHome/intl/index.tsx:152
+msgid "Cities"
+msgstr "Steden"
+
+#: src/locales/i18nMarkCities.tsx:82
+msgid "Cologne"
+msgstr "Keulen"
+
+#: src/locales/i18nMarkCities.tsx:12
+msgid "Colombia"
+msgstr "Colombia"
+
+#: src/locales/i18nMarkCities.tsx:160
+msgid "Columbus"
+msgstr "Columbus"
+
+#: src/views_2/Auth/AuthForm.tsx:18
+#: src/views_2/Auth/AuthForm.tsx:36
+msgid "Continue to {title}"
+msgstr "Ga verder naar {titel}"
+
+#: src/locales/i18nMarkCities.tsx:73
+msgid "Copenhagen"
+msgstr "Kopenhagen"
+
+#: src/components/Header/LibraryNav/index.tsx:245
+msgid "Coping with"
+msgstr "Omgaan met "
+
+#: src/views_2/Topics/details/TopicCourses/index.tsx:34
+msgid "Coping with anxiety with courses"
+msgstr "Omgaan met angst cursussen"
+
+#: src/components_2/base/ShareMenu/index.tsx:242
+msgid "Copy Link"
+msgstr "Link kopiëren"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:212
+msgid "Country"
+msgstr "Land"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:63
+msgid "Country is required."
+msgstr "Land is vereist"
+
+#: src/views_2/MemberPlus/v2/stickyNav/index.tsx:17
+#: src/views_2/Topics/details/TopicCourses/index.tsx:42
+msgid "Courses"
+msgstr "Cursussen"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:280
+msgid "Courses are a premium offering and require either an individual purchase or an Active subscription"
+msgstr "De Cursussen zijn een premium aanbod en vereisen een individuele aankoop of een actief abonnement"
+
+#: src/views_2/Topics/details/TopicCourses/index.tsx:40
+msgid "Courses for Parents"
+msgstr "Cursussen voor Ouders"
+
+#: src/components_2/base/LibraryItemPromotionTiles/register/v2/index.tsx:61
+msgid "Create a free account to bookmark your favorite tracks, follow teachers, and meditate with friends."
+msgstr "Maak een gratis account aan om je favoriete nummers te bookmarken, docenten te volgen en te mediteren met vrienden."
+
+#: src/components_2/base/LibraryItemPromotionTiles/register/v2/index.tsx:110
+msgid "Create account"
+msgstr "Maak een account aan"
+
+#: src/components/Signup/SelectPage.tsx:20
+msgid "Create an account. It’s free. <0/> Join {0} million people today."
+msgstr "Maak een account aan. Het is gratis. <0/> Sluit je vandaag aan bij {0} miljoen mensen."
+
+#: src/components/SignUpEmailForm/index.tsx:75
+msgid "Create free account"
+msgstr "Maak een gratis account aan"
+
+#: src/views_2/Playlists/browse/index.tsx:87
+msgid "Create public or private Playlists from your Library. <0/>You can also browse and follow your friend’s."
+msgstr "Maak openbare of privé Afspeellijsten vanuit je Bibliotheek. <0/>Je kan ook zoeken en die van vrienden volgen."
+
+#: src/components/Signup/EmailSignUpPage.tsx:15
+msgid "Create your free account"
+msgstr "Maak je gratis account aan"
+
+#: src/components_2/layout/TrackList/index.tsx:68
+msgid "Create, follow and discover playlists on our app"
+msgstr "Creër, volg en ontdek afspeellijsten op onze app"
+
+#: src/locales/i18nMarkCities.tsx:57
+msgid "Curitiba"
+msgstr "Curitiba"
+
+#: src/locales/i18nMarkCities.tsx:141
+msgid "Dallas"
+msgstr "Dallas"
+
+#: src/locales/i18nMarkCities.tsx:13
+msgid "Denmark"
+msgstr "Denemarken"
+
+#: src/locales/i18nMarkCities.tsx:159
+msgid "Denver"
+msgstr "Denver"
+
+#: src/views_2/LibraryItem/browse/index.tsx:98
+#: src/views_2/Topics/details/index.tsx:152
+msgid "Displaying {0} free meditations"
+msgstr "Weergave van {0} gratis meditaties"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:209
+msgid "Displaying {0} free {subtitle}"
+msgstr "Weergave {0} gratis {subtitle}"
+
+#: src/views_2/Playlists/browse/index.tsx:125
+msgid "Displaying {0} playlists"
+msgstr "Weergave van {0} afspeellijsten"
+
+#: src/components/Signin/index.tsx:78
+msgid "Don’t have an account?"
+msgstr "Heb je geen account?"
+
+#: src/components_2/banners/GetAppBanner/index.tsx:49
+msgid "Download our app"
+msgstr "Download onze app"
+
+#: src/locales/i18nMarkCities.tsx:124
+msgid "Dubai"
+msgstr "Dubai"
+
+#: src/locales/i18nMarkCities.tsx:89
+msgid "Dublin"
+msgstr "Dublin"
+
+#: src/locales/i18nMarkCities.tsx:149
+msgid "Durham"
+msgstr "Durham"
+
+#: src/locales/i18nMarkCities.tsx:110
+msgid "Edinburgh"
+msgstr "Edinburgh"
+
+#: src/locales/i18nMarkCities.tsx:14
+msgid "Egypt"
+msgstr "Egypte"
+
+#: src/components/SignInEmailForm/index.tsx:69
+#: src/components/SignUpEmailForm/index.tsx:56
+#: src/views_2/ResetPassword/index.tsx:75
+msgid "Email"
+msgstr "E-mail"
+
+#: src/components_2/base/LibraryItemPromotionTiles/register/v2/index.tsx:100
+msgid "Email address"
+msgstr "E-mail adres"
+
+#: src/locales/i18nMark.tsx:8
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: src/locales/i18nMark.tsx:9
+msgid "Experienced"
+msgstr "Ervaren"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:198
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:463
+msgid "Expiry"
+msgstr "Vervaldatum"
+
+#: src/locales/i18nMark.tsx:18
+msgid "Extended"
+msgstr "Uitgebreid"
+
+#: src/views_2/Playlists/browse/index.tsx:113
+msgid "Featured Playlists"
+msgstr "Uitgelichte Afspeellijsten"
+
+#: src/locales/i18nMark.tsx:20
+msgid "Female only"
+msgstr "Alleen Vrouwen"
+
+#: src/locales/i18nMarkCities.tsx:15
+msgid "Finland"
+msgstr "Finland"
+
+#: src/components_2/base/PlaylistCard/index.tsx:190
+#: src/components_2/base/PublisherInfo/full/index.tsx:82
+#: src/components_2/base/PublisherInfo/index.tsx:97
+#: src/components_2/base/PublisherInfo/v2/index.tsx:52
+msgid "Follow"
+msgstr "Volg"
+
+#: src/views_2/Topics/details/TopicHead/index.tsx:50
+msgid "For <0/>"
+msgstr "Voor <0/>"
+
+#: src/components/SignInEmailForm/index.tsx:75
+msgid "Forgot"
+msgstr "Vergeten"
+
+#: src/locales/i18nMarkCities.tsx:16
+msgid "France"
+msgstr "Frankrijk"
+
+#: src/locales/i18nMarkCities.tsx:81
+msgid "Frankfurt"
+msgstr "Frankfurt"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:98
+msgid "Free Trial Successfully completed."
+msgstr "Gratis Proefversie Succesvol voltooid"
+
+#: src/components/SignUpEmailForm/index.tsx:60
+msgid "Full name"
+msgstr "Volledige naam"
+
+#: src/locales/i18nMarkCities.tsx:88
+msgid "Galway"
+msgstr "Galway"
+
+#: src/locales/i18nMarkCities.tsx:55
+msgid "Gent"
+msgstr "Gent"
+
+#: src/locales/i18nMarkCities.tsx:17
+msgid "Germany"
+msgstr "Duitsland"
+
+#: src/components_2/layout/TrackList/index.tsx:74
+msgid "Get the free app"
+msgstr "Neem de gratis app"
+
+#: src/components_2/base/LibraryItemPromotionTiles/appDownload/index.tsx:93
+msgid "Get the full experience on our free app"
+msgstr "Krijg de volledige ervaring op onze gratis app"
+
+#: src/locales/i18nMarkCities.tsx:109
+msgid "Glasgow"
+msgstr "Glasgow"
+
+#: src/locales/i18nMarkCities.tsx:50
+msgid "Gold Coast"
+msgstr "Gold Coast"
+
+#: src/locales/i18nMarkCities.tsx:18
+msgid "Greece"
+msgstr "Griekenland"
+
+#: src/locales/i18nMarkCities.tsx:100
+msgid "Groningen"
+msgstr "Groningen"
+
+#: src/views_2/FunnelHome/intl/english.tsx:123
+#: src/views_2/FunnelHome/intl/index.tsx:108
+msgid "Guided Meditations"
+msgstr "Geleide Meditaties"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:120
+msgid "Guided Meditations for {topicName}"
+msgstr "Geleide Meditaties voor {topicName}"
+
+#: src/locales/i18nMarkCities.tsx:84
+msgid "Hamburg"
+msgstr "Hamburg"
+
+#: src/locales/i18nMarkCities.tsx:134
+msgid "Hawaii"
+msgstr "Hawaï"
+
+#: src/views_2/MemberPlus/v2/hero/index.tsx:103
+msgid "Help support free meditation for US$60 a year and unlock hundreds of Insight Courses and premium features."
+msgstr ""
+
+#: src/locales/i18nMarkCities.tsx:75
+msgid "Helsinki"
+msgstr "Helsinki"
+
+#: src/locales/i18nMarkCities.tsx:19
+#: src/locales/i18nMarkCities.tsx:86
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+#: src/locales/i18nMarkCities.tsx:138
+msgid "Houston"
+msgstr "Houston"
+
+#: src/components/Header/LibraryNav/index.tsx:224
+msgid "Improve your"
+msgstr "Verbeter je"
+
+#: src/views_2/Topics/details/TopicCourses/index.tsx:32
+msgid "Improve your sleep with Courses"
+msgstr "Verbeter je slaap met Cursussen"
+
+#: src/locales/i18nMarkCities.tsx:20
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: src/locales/i18nMark.tsx:12
+msgid "Infants"
+msgstr "Baby's"
+
+#: src/views_2/MemberPlus/v2/courses/index.tsx:157
+msgid "Insight Courses"
+msgstr ""
+
+#: src/components/FreeTrial/index.tsx:18
+msgid "Insight Timer Premium: 30 Day Trial"
+msgstr "Insight Timer Premium: 30 dagen op Proef"
+
+#: src/components/Header/LibraryNav/index.tsx:200
+msgid "Introducing"
+msgstr "We introduceren"
+
+#: src/locales/i18nMarkCities.tsx:21
+msgid "Ireland"
+msgstr "Ierland"
+
+#: src/locales/i18nMarkCities.tsx:123
+msgid "Istanbul"
+msgstr "Istanbul"
+
+#: src/locales/i18nMarkCities.tsx:22
+msgid "Italy"
+msgstr "Italië"
+
+#: src/locales/i18nMarkCities.tsx:23
+msgid "Japan"
+msgstr "Japan"
+
+#: src/components/HomePageFeatureBanner/FeatureLiveTile.tsx:78
+msgid "Join"
+msgstr "Neem deel aan"
+
+#: src/locales/i18nMarkCities.tsx:156
+msgid "Kansas City"
+msgstr "Kansas City"
+
+#: src/components/LiveBadge/index.tsx:20
+msgid "LIVE EVENT"
+msgstr "LIVE EVENEMENT"
+
+#: src/locales/i18nMarkCities.tsx:169
+msgid "Las Vegas"
+msgstr "Las Vegas"
+
+#: src/views_2/Course/details/HeroDesktop/index.tsx:43
+#: src/views_2/Course/details/HeroMobile/index.tsx:49
+msgid "Lesson {0}"
+msgstr "Les {0}"
+
+#: src/views_2/Course/details/HeroMobile/index.tsx:24
+msgid "Lessons"
+msgstr "Lessen"
+
+#: src/components_2/base/ShareMenu/index.tsx:242
+msgid "Link Copied"
+msgstr "Link gekopiëerd"
+
+#: src/locales/i18nMarkCities.tsx:105
+msgid "Lisbon"
+msgstr "Lissabon"
+
+#: src/views_2/LibraryItem/details/v3/index.tsx:192
+msgid "Listen offline"
+msgstr "Offline luisteren"
+
+#: src/components/Header/MobileNav/menus.tsx:57
+#: src/components/Header/desktop.tsx:28
+msgid "Live"
+msgstr "Live"
+
+#: src/views_2/Course/browse/intl/index.tsx:114
+#: src/views_2/LibraryItem/browse/topic.tsx:216
+msgid "Loading ..."
+msgstr "Aan het Laden...."
+
+#: src/components/SignInEmailForm/index.tsx:80
+#: src/components/Signup/index.tsx:37
+#: src/components/Signup/index.tsx:39
+#: src/views_2/Player/views/play/index.jsx:645
+msgid "Log in"
+msgstr "Log in"
+
+#: src/components/Signin/index.tsx:23
+#: src/views_2/Auth/AuthForm.tsx:18
+msgid "Log in to your account"
+msgstr "Log in op je account"
+
+#: src/views_2/Auth/index.tsx:44
+msgid "Login"
+msgstr "Log in"
+
+#: src/components/Header/UserProfile/index.tsx:55
+msgid "Logout"
+msgstr "Log uit"
+
+#: src/locales/i18nMarkCities.tsx:127
+msgid "London"
+msgstr "Londen"
+
+#: src/locales/i18nMark.tsx:17
+msgid "Long"
+msgstr "Lang"
+
+#: src/locales/i18nMarkCities.tsx:145
+msgid "Los Angeles"
+msgstr "Los Angeles"
+
+#: src/locales/i18nMarkCities.tsx:77
+msgid "Lyon"
+msgstr "Lyon"
+
+#: src/locales/i18nMarkCities.tsx:115
+msgid "Madrid"
+msgstr "Madrid"
+
+#: src/locales/i18nMark.tsx:21
+msgid "Male only"
+msgstr "Alleen Mannen"
+
+#: src/components/Header/LibraryNav/index.tsx:266
+msgid "Managing"
+msgstr "Omgaan met"
+
+#: src/views_2/Topics/details/TopicCourses/index.tsx:36
+msgid "Managing stress with courses"
+msgstr "Omgaan met stress cursussen "
+
+#: src/locales/i18nMarkCities.tsx:131
+msgid "Manchester"
+msgstr "Manchester"
+
+#: src/locales/i18nMarkCities.tsx:72
+msgid "Medellín"
+msgstr "Medellin"
+
+#: src/components/Header/LibraryNav/index.tsx:146
+#: src/components/Header/MobileNav/menus.tsx:11
+#: src/views_2/LibraryItem/details/v2/index.tsx:151
+msgid "Meditation"
+msgstr "Meditatie"
+
+#: src/components_2/banners/FeaturedCourseBanner/index.tsx:78
+msgid "Meditation Courses"
+msgstr "Meditatie cursussen"
+
+#: src/views_2/Local/index.tsx:124
+msgid "Meditation Courses by {0} Teachers"
+msgstr "Meditatie Cursussen door {0} Docenten"
+
+#: src/components/Header/LibraryNav/index.tsx:329
+msgid "Meditation for"
+msgstr "Meditatie voor"
+
+#: src/components/Header/LibraryNav/index.tsx:287
+msgid "Meditation with"
+msgstr "Meditatie met"
+
+#: src/locales/i18nMarkCities.tsx:46
+msgid "Melbourne"
+msgstr "Melbourne"
+
+#: src/locales/i18nMarkCities.tsx:24
+msgid "Mexico"
+msgstr "Mexico"
+
+#: src/locales/i18nMarkCities.tsx:92
+msgid "Mexico City"
+msgstr "Mexico City"
+
+#: src/locales/i18nMarkCities.tsx:135
+msgid "Miami"
+msgstr "Miami"
+
+#: src/locales/i18nMarkCities.tsx:117
+msgid "Milan"
+msgstr "Milaan"
+
+#: src/views_2/Topics/details/TopicCourses/index.tsx:38
+msgid "Mindfulness Courses at Work"
+msgstr "Mindfulness op het Werk"
+
+#: src/components/SignUpEmailForm/index.tsx:68
+msgid "Minimum 6 characters"
+msgstr "Minimaal 6 tekens"
+
+#: src/locales/i18nMarkCities.tsx:166
+msgid "Minneapolis"
+msgstr "Minneapolis"
+
+#: src/locales/i18nMarkCities.tsx:66
+msgid "Montréal"
+msgstr "Montréal"
+
+#: src/components_2/base/ShareMenu/index.tsx:253
+msgid "More"
+msgstr "Meer"
+
+#: src/locales/i18nMarkCities.tsx:107
+msgid "Moscow"
+msgstr "Moskou"
+
+#: src/locales/i18nMarkCities.tsx:79
+msgid "Munich"
+msgstr "München"
+
+#: src/components/Header/LibraryNav/index.tsx:311
+#: src/components/Header/MobileNav/menus.tsx:39
+msgid "Music"
+msgstr "Muziek"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:127
+msgid "Music for {topicName}"
+msgstr "Muziek voor {topicName}"
+
+#: src/components/Header/UserProfile/index.tsx:40
+msgid "My Courses"
+msgstr "Mijn cursussen"
+
+#: src/components/Header/UserProfile/index.tsx:47
+msgid "My Profile"
+msgstr "Mijn profiel"
+
+#: src/components/Header/UserProfile/index.tsx:51
+msgid "My Subscription"
+msgstr "Mijn Abonnement"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:57
+msgid "Name is required."
+msgstr "Naam is vereist"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:183
+msgid "Name on card"
+msgstr "Naam op kaart"
+
+#: src/locales/i18nMarkCities.tsx:150
+msgid "Nashville"
+msgstr "Nashville"
+
+#: src/locales/i18nMarkCities.tsx:25
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: src/components/TeacherTile/index.tsx:25
+msgid "New"
+msgstr "Nieuw"
+
+#: src/locales/i18nMarkCities.tsx:139
+msgid "New Orleans"
+msgstr "New Orleans"
+
+#: src/locales/i18nMarkCities.tsx:162
+msgid "New York"
+msgstr "New York"
+
+#: src/locales/i18nMarkCities.tsx:26
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+#: src/locales/i18nMark.tsx:23
+#: src/views_2/Course/browse/intl/index.tsx:100
+#: src/views_2/FunnelHome/intl/english.tsx:142
+#: src/views_2/FunnelHome/intl/index.tsx:127
+#: src/views_2/PublisherProfile/index.tsx:107
+#: src/views_2/Topics/details/index.tsx:173
+msgid "Newest"
+msgstr "Nieuwste"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:174
+msgid "No Commitment, Cancel Anytime"
+msgstr "Geen verplichting, op elk moment annuleren"
+
+#: src/components_2/banners/PlaylistSignUpBanner/index.tsx:83
+msgid "No credit card required"
+msgstr "Geen creditcard nodig"
+
+#: src/locales/i18nMarkCities.tsx:27
+msgid "Norway"
+msgstr "Noorwegen"
+
+#: src/locales/i18nMarkCities.tsx:130
+msgid "Nottingham"
+msgstr "Nottingham"
+
+#: src/views_2/MemberPlus/v2/stickyNav/index.tsx:20
+msgid "Offline"
+msgstr ""
+
+#: src/locales/i18nMarkCities.tsx:137
+msgid "Orlando"
+msgstr "Orlando"
+
+#: src/locales/i18nMarkCities.tsx:103
+msgid "Oslo"
+msgstr "Oslo"
+
+#: src/locales/i18nMarkCities.tsx:65
+msgid "Ottawa"
+msgstr "Ottawa"
+
+#: src/views_2/Course/details/HeroMobile/index.tsx:23
+msgid "Overview"
+msgstr "Overzicht"
+
+#: src/locales/i18nMarkCities.tsx:128
+msgid "Oxford"
+msgstr "Oxford"
+
+#: src/locales/i18nMarkCities.tsx:78
+msgid "Paris"
+msgstr "Parijs"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:417
+msgid "Payment details"
+msgstr "Betaalgegevens"
+
+#: src/locales/i18nMarkCities.tsx:49
+msgid "Perth"
+msgstr "Perth"
+
+#: src/locales/i18nMarkCities.tsx:161
+msgid "Philadelphia"
+msgstr "Philadelphia"
+
+#: src/locales/i18nMarkCities.tsx:143
+msgid "Phoenix"
+msgstr "Phoenix"
+
+#: src/views_2/LibraryItem/details/v3/index.tsx:195
+msgid "Play in App"
+msgstr "Luister in de App"
+
+#: src/components/Header/LibraryNav/index.tsx:203
+#: src/components/Header/MobileNav/menus.tsx:19
+#: src/views_2/Playlists/browse/index.tsx:77
+msgid "Playlists"
+msgstr "Afspeellijsten"
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:172
+#: src/views_2/LibraryItem/details/v3/index.tsx:253
+msgid "Plays"
+msgstr "Afgespeeld"
+
+#: src/locales/i18nMarkCities.tsx:28
+msgid "Poland"
+msgstr "Polen"
+
+#: src/locales/i18nMark.tsx:22
+#: src/views_2/Course/browse/intl/index.tsx:96
+#: src/views_2/FunnelHome/intl/english.tsx:138
+#: src/views_2/FunnelHome/intl/index.tsx:123
+#: src/views_2/PublisherProfile/index.tsx:103
+#: src/views_2/Topics/details/index.tsx:169
+msgid "Popular"
+msgstr "Populair"
+
+#: src/locales/i18nMarkCities.tsx:167
+msgid "Portland"
+msgstr "Portland"
+
+#: src/locales/i18nMarkCities.tsx:106
+msgid "Porto"
+msgstr "Porto"
+
+#: src/locales/i18nMarkCities.tsx:56
+msgid "Porto Alegre"
+msgstr "Porto Alegre"
+
+#: src/locales/i18nMarkCities.tsx:29
+msgid "Portugal"
+msgstr "Portugal"
+
+#: src/views_2/MemberPlus/v2/offline/index.tsx:106
+msgid "Premium Features"
+msgstr ""
+
+#: src/views_2/MemberPlus/v2/stickyNav/index.tsx:23
+msgid "Pricing"
+msgstr ""
+
+#: src/locales/i18nMarkCities.tsx:93
+msgid "Puerto Vallarta"
+msgstr "Puerto Vallarta"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:524
+msgid "Purchase this Course"
+msgstr "Koop deze Cursus"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:304
+msgid "Purchase this course only"
+msgstr "Koop alleen deze cursus "
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:117
+#: src/views_2/LibraryItem/details/v3/index.tsx:211
+msgid "Rated"
+msgstr "Beoordeeld"
+
+#: src/views_2/Course/details/index.tsx:60
+#: src/views_2/LibraryItem/details/v2/index.tsx:225
+#: src/views_2/LibraryItem/details/v3/index.tsx:308
+#: src/views_2/PublisherProfile/index.tsx:137
+msgid "Recent Reviews"
+msgstr "Recente Beoordelingen"
+
+#: src/components_2/base/LibraryItemPromotionTiles/register/v2/index.tsx:58
+msgid "Register. It’s free!"
+msgstr "Registreer je. Het is gratis!"
+
+#: src/views_2/LibraryItem/details/index.tsx:70
+msgid "Related Courses"
+msgstr ""
+
+#: src/views_2/LibraryItem/details/index.tsx:114
+msgid "Related Meditations"
+msgstr ""
+
+#: src/views_2/Playlists/details/index.tsx:224
+msgid "Related Playlists"
+msgstr "Gerelateerde Afspeellijsten"
+
+#: src/views_2/LibraryItem/details/index.tsx:133
+#: src/views_2/PublisherProfile/index.tsx:153
+msgid "Related Teachers"
+msgstr "Verwante Leraren"
+
+#: src/views_2/ResetPassword/index.tsx:65
+msgid "Reset Password"
+msgstr "Wachtwoord opnieuw instellen"
+
+#: src/views_2/ResetPassword/index.tsx:65
+msgid "Reset your Insight Timer Password."
+msgstr "Stel je Insight Timer wachtwoord opnieuw in"
+
+#: src/views_2/ResetPassword/index.tsx:63
+#: src/views_2/ResetPassword/index.tsx:70
+msgid "Reset your password"
+msgstr "Wachtwoord opnieuw instellen"
+
+#: src/locales/i18nMarkCities.tsx:58
+msgid "Rio de Janeiro"
+msgstr "Rio de Janeiro"
+
+#: src/locales/i18nMarkCities.tsx:90
+msgid "Rome"
+msgstr "Rome"
+
+#: src/locales/i18nMarkCities.tsx:94
+msgid "Rotterdam"
+msgstr "Rotterdam"
+
+#: src/locales/i18nMarkCities.tsx:30
+msgid "Russia"
+msgstr "Rusland"
+
+#: src/locales/i18nMarkCities.tsx:108
+msgid "Saint Petersburg"
+msgstr "Sint Petersburg"
+
+#: src/locales/i18nMarkCities.tsx:163
+msgid "Salt Lake City"
+msgstr "Salt Lake City"
+
+#: src/locales/i18nMarkCities.tsx:142
+msgid "San Diego"
+msgstr "San Diego"
+
+#: src/locales/i18nMarkCities.tsx:153
+msgid "San Francisco"
+msgstr "San Francisco"
+
+#: src/locales/i18nMarkCities.tsx:152
+msgid "San Jose"
+msgstr "San José"
+
+#: src/locales/i18nMarkCities.tsx:133
+msgid "Santa Ana"
+msgstr "Santa Ana"
+
+#: src/locales/i18nMarkCities.tsx:151
+msgid "Santa Cruz"
+msgstr "Santa Cruz"
+
+#: src/locales/i18nMarkCities.tsx:63
+msgid "Santiago"
+msgstr "Santiago"
+
+#: src/locales/i18nMarkCities.tsx:62
+msgid "Sao Paolo"
+msgstr "Sao Paolo"
+
+#: src/locales/i18nMarkCities.tsx:31
+msgid "Scotland"
+msgstr "Schotland"
+
+#: src/components/SearchBar/index.tsx:74
+#: src/views_2/Live/LiveSearchBar/index.tsx:39
+msgid "Search"
+msgstr "Zoeken.."
+
+#: src/locales/i18nMarkCities.tsx:168
+msgid "Seattle"
+msgstr "Seattle"
+
+#: src/locales/i18nMarkCities.tsx:146
+msgid "Sedona"
+msgstr "Sedona"
+
+#: src/components/Header/MobileNav/menus.tsx:47
+#: src/components_2/layout/PlaylistsCarousel/index.tsx:39
+msgid "See all"
+msgstr "Bekijk alles"
+
+#: src/components/Header/LibraryNav/index.tsx:178
+msgid "See all <0>200 Topics</0>"
+msgstr "Bekijk alle <0>200 Onderwerpen</0>"
+
+#: src/views_2/Topics/details/TopicGmCarousel/index.tsx:45
+msgid "See all {0}"
+msgstr "Bekijk alles {0}"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:267
+msgid "Select an Option"
+msgstr "Selecteer een optie"
+
+#: src/locales/i18nMarkCities.tsx:113
+msgid "Sevilla"
+msgstr "Sevilla"
+
+#: src/components_2/base/ShareMenu/index.tsx:170
+msgid "Share"
+msgstr "Deel"
+
+#: src/components_2/banners/ShareBanner/index.tsx:61
+msgid "Share Playlist"
+msgstr "Afspeellijst Delen"
+
+#: src/locales/i18nMark.tsx:16
+msgid "Short"
+msgstr "Kort"
+
+#: src/components/Header/AuthNav/index.tsx:42
+msgid "Sign In"
+msgstr "Inloggen"
+
+#: src/views_2/Auth/index.tsx:46
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+#: src/views_2/Player/views/playlist/slider/index.tsx:253
+msgid "Sign in"
+msgstr "Inloggen"
+
+#: src/components/SignInWithApple/index.tsx:32
+msgid "Sign in with Apple"
+msgstr "Log in met Apple"
+
+#: src/components/SignInWithFacebook/index.tsx:30
+msgid "Sign in with Facebook"
+msgstr "Log in met Facebook"
+
+#: src/components/Signin/index.tsx:80
+#: src/components/Signin/index.tsx:82
+msgid "Sign up"
+msgstr "Aanmelden"
+
+#: src/components_2/banners/PlaylistSignUpBanner/index.tsx:78
+msgid "Sign up for Free to <0/> follow this Playlist"
+msgstr "Registreer Gratis om <0/> deze Afspeellijst te volgen"
+
+#: src/components/Header/MobileNav/index.tsx:49
+#: src/components/HeaderIntl/MobileNav/index.tsx:43
+msgid "Sign up free"
+msgstr "Registreer gratis"
+
+#: src/components/SignInWithApple/index.tsx:32
+msgid "Sign up with Apple"
+msgstr "Meld je aan met Apple"
+
+#: src/components/SignInWithFacebook/index.tsx:30
+msgid "Sign up with Facebook"
+msgstr "Meld je aan met Facebook"
+
+#: src/components/SignUpWithEmailButton/index.tsx:37
+msgid "Sign up with email"
+msgstr "Aanmelden met e-mail"
+
+#: src/components_2/base/PublisherInfo/full/index.tsx:94
+msgid "Since"
+msgstr "Sinds"
+
+#: src/locales/i18nMarkCities.tsx:32
+#: src/locales/i18nMarkCities.tsx:111
+msgid "Singapore"
+msgstr "Singapore"
+
+#: src/components/Header/LibraryNav/index.tsx:227
+#: src/components/Header/MobileNav/menus.tsx:23
+#: src/components/Header/desktop.tsx:24
+msgid "Sleep"
+msgstr "Slaap"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:102
+msgid "Sorry for the inconvenience, but the system is currently unavailable. Please try again later."
+msgstr "Excuses voor het ongemak, maar het systeem is momenteel niet beschikbaar. Probeer het later opnieuw."
+
+#: src/locales/i18nMarkCities.tsx:33
+msgid "South Africa"
+msgstr "Zuid-Afrika"
+
+#: src/locales/i18nMarkCities.tsx:34
+msgid "Spain"
+msgstr "Spanje"
+
+#: src/locales/i18nMarkCities.tsx:154
+msgid "St. Louis"
+msgstr "St. Louis"
+
+#: src/views_2/Playlists/browse/index.tsx:107
+msgid "Staff Picks"
+msgstr "Teamkeuzes"
+
+#: src/views_2/Course/browse/intl/index.tsx:76
+msgid "Staff Recommended"
+msgstr "Aanbevelingen van ons Team"
+
+#: src/components_2/base/TrialButton/index.tsx:9
+msgid "Start 30 day free trial"
+msgstr "Start 30 dagen gratis proefabonnement"
+
+#: src/components_2/base/CourseInfo/v2/index.tsx:258
+#: src/components_2/base/LibraryItemPromotionTiles/course/index.tsx:166
+msgid "Start Day 1"
+msgstr "Start dag 1"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:519
+msgid "Start Subscription"
+msgstr "Start Abonnement"
+
+#: src/components/FreeTrial/index.tsx:49
+msgid "Start Your 30 Day <0/> Free Trial"
+msgstr "Begin je 30 dagen <0/> gratis Proefabonnement"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:521
+msgid "Start free trial"
+msgstr "Start gratis proefabonnement"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:368
+msgid "Start your 30 day free trial then subscribe"
+msgstr "Start je 30 dagen gratis proefabonnement en abonneer je erna "
+
+#: src/locales/i18nMarkCities.tsx:118
+msgid "Stockholm"
+msgstr "Stockholm"
+
+#: src/components/Header/LibraryNav/index.tsx:269
+#: src/components/Header/MobileNav/menus.tsx:31
+msgid "Stress"
+msgstr "Stress"
+
+#: src/locales/i18nMarkCities.tsx:80
+msgid "Stuttgart"
+msgstr "Stuttgart"
+
+#: src/views_2/ResetPassword/index.tsx:62
+msgid "Submitted successfully."
+msgstr "Succesvol ingediend."
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:367
+msgid "Subscribe"
+msgstr "Abonneren"
+
+#: src/components/FreeTrial/index.tsx:19
+msgid "Subscribe to MemberPlus on 30 Day Free Trial"
+msgstr "Abonneer je op MemberPlus voor een gratis proefperiode van 30 dagen"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:250
+msgid "Subscribe to MemberPlus on 30 Day Free Trial. Your annual subscription will automatically begin after 30 days at US $59.99 if you don't cancel before hand."
+msgstr "Abonneer je op MemberPlus voor een gratis proefperiode van 30 dagen. Uw jaarabonnement begint automatisch na 30 dagen voor $ 59,99 als u het niet van tevoren opzegt."
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:160
+#: src/views_2/LibraryItem/details/v3/index.tsx:241
+msgid "Suitable for"
+msgstr "Geschikt voor"
+
+#: src/locales/i18nMarkCities.tsx:35
+msgid "Sweden"
+msgstr "Zweden"
+
+#: src/locales/i18nMarkCities.tsx:36
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: src/locales/i18nMarkCities.tsx:48
+msgid "Sydney"
+msgstr "Sydney"
+
+#: src/components_2/banners/FeaturedCourseBanner/index.tsx:65
+#: src/views_2/MemberPlus/v2/courses/index.tsx:169
+msgid "Take your practice to the next level with hundreds of 10 and 30 day Insight Courses from the world’s best teachers."
+msgstr ""
+
+#: src/views_2/LibraryItem/browse/topic.tsx:113
+msgid "Talks for {topicName}"
+msgstr "Lezingen over {topicName}"
+
+#: src/locales/i18nMarkCities.tsx:136
+msgid "Tampa"
+msgstr "Tampa"
+
+#: src/components/TeacherTile/index.tsx:30
+#: src/components_2/base/PublisherInfo/full/index.tsx:48
+#: src/components_2/tiles/TeacherTile/index.tsx:95
+msgid "Teacher"
+msgstr "Docent"
+
+#: src/views_2/Auth/index.tsx:38
+msgid "Teacher Dashboard"
+msgstr "Docent Dashboard "
+
+#: src/components/Header/MobileNav/menus.tsx:69
+#: src/views_2/Topics/details/TopicTeacherCarousel/index.tsx:19
+msgid "Teachers"
+msgstr " Docenten"
+
+#: src/locales/i18nMark.tsx:13
+msgid "Teenagers"
+msgstr "Tieners"
+
+#: src/components/Header/MobileNav/menus.tsx:73
+msgid "Term & Privacy"
+msgstr "Voorwaarden & Privacy"
+
+#~ msgid "Terms"
+#~ msgstr "Voorwaarden"
+
+#: src/locales/i18nMarkCities.tsx:37
+msgid "Thailand"
+msgstr "Thailand"
+
+#: src/locales/i18nMarkCities.tsx:96
+msgid "The Hague"
+msgstr "Den Haag"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:358
+msgid "Then ${ANNUAL_SUBSCRIPTION_PRICE}/year"
+msgstr "Daarna ${ANNUAL_SUBSCRIPTION_PRICE}/jaar"
+
+#: src/components/Header/LibraryNav/index.tsx:290
+#: src/components/Header/MobileNav/menus.tsx:35
+msgid "Timer"
+msgstr "Timer"
+
+#: src/components/HomePageFeatureBanner/FeatureLiveTile.tsx:44
+msgid "Today"
+msgstr "Vandaag"
+
+#: src/locales/i18nMarkCities.tsx:91
+msgid "Tokyo"
+msgstr "Tokio"
+
+#: src/components/SearchBar/SearchResultItem/index.tsx:60
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: src/locales/i18nMarkCities.tsx:64
+msgid "Toronto"
+msgstr "Toronto"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:388
+msgid "Total due"
+msgstr "Totaal verschuldigd"
+
+#: src/components_2/base/Transcript/index.tsx:21
+msgid "Transcript"
+msgstr "Transcript"
+
+#: src/locales/i18nMarkCities.tsx:38
+msgid "Turkey"
+msgstr "Turkije"
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:133
+#: src/views_2/LibraryItem/details/v3/index.tsx:226
+msgid "Type"
+msgstr "Type"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:227
+msgid "US$59.99 billed annually after free trial."
+msgstr "US $ 59,99 jaarlijks gefactureerd na gratis proefperiode."
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:398
+msgid "USD ${0}"
+msgstr "USD ${0}"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:393
+msgid "USD ${ANNUAL_SUBSCRIPTION_PRICE}"
+msgstr "USD ${ANNUAL_SUBSCRIPTION_PRICE}"
+
+#: src/locales/i18nMarkCities.tsx:39
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: src/locales/i18nMarkCities.tsx:40
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: src/locales/i18nMarkCities.tsx:41
+msgid "United States"
+msgstr "Verenigde Staten"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:314
+msgid "Unlock <0>{0}</0> and use as often as you like."
+msgstr "Ontgrendel <0>{0}</0> en gebruik zo vaak als je wilt."
+
+#: src/views_2/MemberPlus/v2/offline/index.tsx:116
+msgid "Unlock additional features like Offline Listening, High Quality Audio, and our advanced Audio Player."
+msgstr ""
+
+#: src/views_2/LibraryItem/details/index.tsx:73
+#: src/views_2/Topics/details/TopicCourses/index.tsx:59
+msgid "Unlock over {courseNumber} premium courses on Members Plus today!"
+msgstr "Ontgrendel meer dan {courseNumber} premium cursussen op Members Plus vandaag!"
+
+#: src/components/Header/LibraryNav/index.tsx:308
+msgid "Unwind with"
+msgstr "Ontspannen met"
+
+#: src/views_2/Auth/index.tsx:41
+msgid "User Profile"
+msgstr "Gebruikersprofiel"
+
+#: src/locales/i18nMarkCities.tsx:97
+msgid "Utrecht"
+msgstr "Utrecht"
+
+#: src/locales/i18nMarkCities.tsx:114
+msgid "Valencia"
+msgstr "Valencia"
+
+#: src/locales/i18nMarkCities.tsx:68
+msgid "Vancouver"
+msgstr "Vancouver"
+
+#: src/locales/i18nMarkCities.tsx:67
+msgid "Victoria"
+msgstr "Victoria"
+
+#: src/locales/i18nMarkCities.tsx:53
+msgid "Vienna"
+msgstr "Wenen"
+
+#: src/views_2/MemberPlus/v2/courses/index.tsx:204
+msgid "View all {0} Courses"
+msgstr ""
+
+#: src/views_2/Local/index.tsx:136
+msgid "Virtual Meditation Classes Online"
+msgstr "Virtuele Meditatielessen Online"
+
+#: src/locales/i18nMarkCities.tsx:104
+msgid "Warsaw"
+msgstr "Warschau"
+
+#: src/locales/i18nMarkCities.tsx:155
+msgid "Washington"
+msgstr "Washington"
+
+#: src/components/Header/LibraryNav/index.tsx:163
+msgid "We believe everyone deserves access to a free daily meditation practice. Which is why we publish the world's largest collection of free guided meditations, with over {gmTotalFormatted} titles."
+msgstr "Wij geloven dat iedereen toegang verdient tot een gratis dagelijkse meditatie beoefening. Daarom publiceren we 's werelds grootste collectie van gratis geleide meditaties, met meer dan {gmTotalFormated} titels."
+
+#: src/views_2/MemberPlus/v2/pricing/index.tsx:94
+msgid "We share 50% of all income <0/> with our teachers"
+msgstr ""
+
+#: src/components_2/banners/CookieBar/index.tsx:21
+msgid "We use cookies to make your experience better. By visiting this site, you agree to our <0>cookie policy</0>."
+msgstr "We gebruiken cookies om je ervaring te verbeteren. Door deze site te bezoeken, ga je akkoord met ons <0>cookiebeleid</0>."
+
+#: src/components/FreeTrial/index.tsx:46
+msgid "Web Offer"
+msgstr "Web Aanbieding"
+
+#: src/locales/i18nMarkCities.tsx:101
+msgid "Wellington"
+msgstr "Wellington"
+
+#: src/views_2/Course/details/HeroDesktop/index.tsx:25
+#: src/views_2/Course/details/HeroMobile/index.tsx:34
+msgid "What you’ll learn"
+msgstr "Wat je zal leren"
+
+#: src/locales/i18nMarkCities.tsx:69
+msgid "Winnipeg"
+msgstr "Winnipeg"
+
+#: src/components/Header/MobileNav/menus.tsx:53
+#: src/components/Header/desktop.tsx:20
+msgid "Yoga"
+msgstr "Yoga"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:409
+msgid "You may cancel your subscription any time within the trial at no charge.  Your annual subscription will automatically begin after 30 days at USD {ANNUAL_SUBSCRIPTION_PRICE}/year."
+msgstr "Je kunt je abonnement op ieder moment binnen de proefperiode kostenloos opzeggen.  Je jaarabonnement begint automatisch na 30 dagen voor USD {ANNUAL_SUBSCRIPTION_PRICE}/jaar."
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:237
+msgid "You won't be charged until after your 30‑day free trial. We'll remind you three days before your trial ends."
+msgstr "Er worden pas kosten in rekening gebracht na de gratis proefperiode van 30 dagen. Drie dagen voordat je proefperiode afloopt, krijg je een herinnering."
+
+#: src/views_2/MemberPlus/v2/pricing/index.tsx:107
+msgid "Your 30 day free trial will automatically renew for $60/year."
+msgstr ""
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:407
+msgid "Your annual subscription will automatically renew after one year at USD {ANNUAL_SUBSCRIPTION_PRICE}."
+msgstr "Je jaarabonnement wordt na een jaar automatisch verlengd voor {ANNUAL_SUBSCRIPTION_PRICE} USD."
+
+#: src/components/SignInEmailForm/index.tsx:73
+#: src/components/SignUpEmailForm/index.tsx:64
+msgid "Your password"
+msgstr "Je wachtwoord"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:219
+msgid "Zip code"
+msgstr "Postcode"
+
+#: src/components/FreeTrial/SubscriptionForm.tsx:60
+msgid "Zip code is required."
+msgstr "Postcode is vereist"
+
+#: src/locales/i18nMarkCities.tsx:99
+msgid "Zwolle"
+msgstr "Zwolle"
+
+#: src/locales/i18nMarkCities.tsx:119
+msgid "Zürich"
+msgstr "Zürich"
+
+#: src/views_2/LibraryItem/details/v2/index.tsx:105
+msgid "by <0> {publisherName} </0>"
+msgstr "door <0> {publisherName} </0>"
+
+#: src/components/Header/MobileNav/menus.tsx:43
+msgid "for Parents"
+msgstr "Voor Ouders"
+
+#: src/locales/i18nMark.tsx:5
+msgid "guided"
+msgstr "Geleide"
+
+#: src/components_2/base/Transcript/CollapseText.tsx:11
+#: src/components_2/base/TruncateHashtagText/index.tsx:26
+#: src/components_2/base/TruncateText/index.tsx:12
+msgid "less"
+msgstr "minder"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:147
+msgid "meditations for {0}"
+msgstr "meditaties voor {0}"
+
+#: src/views_2/FunnelHome/intl/meta.tsx:37
+#: src/views_2/LibraryItem/browse/meta.tsx:10
+msgid "meta.homepage.title"
+msgstr "Insight Timer: De grootste keuze aan kosteloze Meditaties"
+
+#: src/views_2/FunnelHome/intl/meta.tsx:38
+#: src/views_2/LibraryItem/browse/meta.tsx:11
+msgid "meta.homepate.description"
+msgstr "Insight Timer is de meest populaire meditatie-app. Ontdek 's werelds grootste GRATIS bibliotheek vol geleide meditaties."
+
+#: src/components_2/base/Transcript/CollapseText.tsx:11
+#: src/components_2/base/TruncateHashtagText/index.tsx:28
+#: src/components_2/base/TruncateText/index.tsx:14
+msgid "more"
+msgstr "Meer"
+
+#: src/locales/i18nMark.tsx:6
+msgid "music"
+msgstr "Muziek"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:145
+msgid "music tracks for {0}"
+msgstr "muzieknummers voor {0}"
+
+#: src/components/Signin/index.tsx:65
+#: src/components_2/base/LibraryItemPromotionTiles/register/v2/index.tsx:94
+msgid "or"
+msgstr "of"
+
+#: src/components/FreeTrial/index.tsx:62
+msgid "reviews"
+msgstr "reviews"
+
+#: src/locales/i18nMark.tsx:7
+msgid "talks"
+msgstr "Lezingen"
+
+#: src/views_2/LibraryItem/browse/topic.tsx:143
+msgid "talks for {0}"
+msgstr "lezingen voor"
+
+#: src/views_2/Player/components/Purchase/form/v2/index.jsx:372
+msgid "to unlock all 300 Insight Courses, Playlists and premium features."
+msgstr "om alle 300 Insight Cursussen, Afspeellijsten en premium functies te ontgrendelen."
+
+#: src/components/SearchBar/SearchResultItem/index.tsx:41
+msgid "{0, plural, one {# min} other {# mins}}"
+msgstr "{0, plural, one {# minuut} other {# minuten}}"
+
+#: src/components/LocalCities/index.tsx:18
+msgid "{0, plural, one {# teacher} other {# teachers}}"
+msgstr "{0, plural, one {# docent} other {# docenten}}"
+
+#: src/components_2/base/PublisherInfo/full/index.tsx:108
+msgid "{0, plural, one {Follower} other {Followers}}"
+msgstr "{0, plural, one {Volger} other {Volgers}}"
+
+#: src/components/SearchBar/SearchResultItem/index.tsx:22
+msgid "{0, plural, one {{1} follower} other {{2} followers}}"
+msgstr "{0, plural, one {{1} volger} other {{2} volgers}}"
+
+#: src/components_2/base/PublisherInfo/full/index.tsx:91
+msgid "{0, plural, one {{1} play} other {{2} plays}}"
+msgstr "{0, plural, one { {1}play}other {{2} plays}}"
+
+#: src/components/SearchBar/SearchResultItem/index.tsx:52
+msgid "{0} <0/> {1} DAY COURSE"
+msgstr "{0} <0/> {1} DAAGSE CURSUS"
+
+#: src/components/HomePageFeatureBanner/FeatureLiveTile.tsx:84
+msgid "{0} attending"
+msgstr "{0} <0/> {1} deelnemers"
+
+#: src/components_2/tiles/base/ContentForLibraryItems/ContentElements/DurationMinutes/index.tsx:12
+msgid "{0} min"
+msgstr "{0} min."
+
+#: src/views_2/Course/details/index.tsx:85
+#: src/views_2/PublisherProfile/index.tsx:93
+msgid "{0}'s Collection"
+msgstr "{0}'s Collectie"
+
+#: src/components_2/base/LibraryItemPromotionTiles/course/index.tsx:129
+msgid "{0}-day course"
+msgstr " {0} daagse cursus"
+
+#: src/components_2/base/PlaylistCard/index.tsx:201
+msgid "{0}<0>followers</0>"
+msgstr "{0}<0>volgers</0>"
+
+#: src/components_2/base/CourseInfo/v2/index.tsx:240
+msgid "{days} day course"
+msgstr "{days} daagse cursus"
+
+#: src/components/CourseTile/index.tsx:20
+msgid "{days}-day course"
+msgstr "{days} daagse cursus"
+
+#: src/components_2/tiles/base/ContentForLibraryItems/ContentElements/RatingPattern/index.tsx:19
+msgid "{duration_days} day course"
+msgstr "{duration_days} daagse cursus"
+
+#: src/components/Header/LibraryNav/index.tsx:154
+msgid "{gmTotalFormatted} <0><1/></0> guided meditations"
+msgstr "{gmTotalFormated} <0><1/></0> geleide meditaties"
+
+#: src/components/CircleDetails/CircleAdmin.tsx:15
+msgid "{memberCount, plural, one {{memberCount} Member in this Circle} other {{memberCount} Members in this Circle}}"
+msgstr "{memberCount, plural, one {{memberCount} Lid in deze Circle} other {{memberCount} Leden in deze Circle}}"
+
+#: src/views_2/Topics/details/index.tsx:126
+msgid "{slug} Music"
+msgstr "{slug} Muziek"
+
+#: src/views_2/Topics/details/index.tsx:130
+msgid "{slug} Talks"
+msgstr "{slug} Lezingen"
